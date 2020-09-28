@@ -1,0 +1,1 @@
+# kinolog.martynova.sm.v1.0.0
